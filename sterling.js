@@ -10,3 +10,7 @@ var sterling3 = "let's push this again!"
 function greetings3(){
   return sterling3;
 }
+var sterling4 = "Last time is the best time"
+function greetings4(){
+  return sterling4;
+}
